@@ -1,5 +1,5 @@
 ![github pic](https://user-images.githubusercontent.com/39452187/124603957-1558ed00-de88-11eb-97d5-aabe9f5c79d6.JPG)
-Watch the full video with <a href="https://youtu.be/Ok7htm6oySA">this link</a>
+Feel free to watch the video with <a href="https://youtu.be/Ok7htm6oySA">this link</a>
 
 
 # Getting Started with Create React App
